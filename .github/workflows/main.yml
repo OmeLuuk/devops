@@ -1,8 +1,8 @@
 name: Builb Test and push
 on: [push]
 env:
-  IMAGE_NAME: service
-  REPO_NAME: swagger_server
+  IMAGE_NAME: student_service
+  REPO_NAME: luuk6589734
   
 
 
